@@ -1,5 +1,3 @@
-#!/bin/bash
-
 
 #mini bank command prompt project that collects input from the user and displays various options
 
