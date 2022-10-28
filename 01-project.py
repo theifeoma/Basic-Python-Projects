@@ -1,9 +1,10 @@
 #!/bin/bash
 
-/*
-**mini bank command prompt project that collects input from the user and displays various options
-**methods used: if statements and string concatenation
-*/
+
+#mini bank command prompt project that collects input from the user and displays various options
+
+#methods used: if statements and string concatenation
+
 
 name = input("What is your name? ")
 print("Hello " + name)
